@@ -21,6 +21,11 @@ function drawChart(json) {
     			    text: "Results"
     		    }
     	    },
+    	    effects: {
+            	load: {
+            		effect: "none"
+            	}
+            },
     	    data: json
         });
     } else {
