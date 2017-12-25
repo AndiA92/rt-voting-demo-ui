@@ -1,0 +1,16 @@
+{
+  "content": [
+    {
+      "label": "Candidate A",
+      "value": 10
+    },
+    {
+      "label": "Candidate B",
+      "value": 30
+    },
+    {
+      "label": "Candidate C",
+      "value": 4
+    }
+  ]
+}
